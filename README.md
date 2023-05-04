@@ -4,6 +4,7 @@ Este proyecto es realizado en Java para la implementación de GIT en la clase de
 
 ## Pre-Requisitos
 * Java
+* Git
 * Pruebas Unitarias
 
 ## Construido con
