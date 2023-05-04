@@ -15,6 +15,8 @@ public class Practico3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Persona persona1 = new Persona(2L, "Daniela", "Villalba", "Torres", 19);
+        System.out.println(persona1.getNombre());
     }
     
 }
